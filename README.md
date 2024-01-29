@@ -1,2 +1,1 @@
-no code no pain
-experiment with amend
+Записали новую строку в файл README.md
